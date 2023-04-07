@@ -1,5 +1,3 @@
-#include<bits/stdc++.h>
-using namespace std;
 class DSU
 {
     public:
@@ -68,10 +66,3 @@ class DSU
             }
         }
 };
-
-int main()
-{
-    int t;
-    cin>>t;
-    return 0;
-}
