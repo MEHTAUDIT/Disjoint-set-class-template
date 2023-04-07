@@ -73,6 +73,5 @@ int main()
 {
     int t;
     cin>>t;
-    // HELLO I AM NISSARG
     return 0;
 }
