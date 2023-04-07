@@ -1,3 +1,5 @@
+#include<bits/stdc++.h>
+using namespace std;
 class DSU
 {
     public:
@@ -66,3 +68,8 @@ class DSU
             }
         }
 };
+
+int main()
+{
+    return 0;
+}
